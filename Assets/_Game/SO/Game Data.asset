@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0435cb04f162a4469b092e7bc3cb011, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  _cops:
+  - _moveSpeed: 27
+    _rotationSpeed: 2
+    _mask:
+      serializedVersion: 2
+      m_Bits: 256
+  - _moveSpeed: 30
+    _rotationSpeed: 2
+    _mask:
+      serializedVersion: 2
+      m_Bits: 256
+  _packageName: com.sansdevs.carvscops
+  _devLabelText: 'Developed by:'
+  _devText: SANSDEVS
+  _contactLabelText: 'Contact us:'
+  _contactText: sansdevs@gmail.com
+  _sfxLabelText: 'Sound Effect From:'
+  _sfxText: opengameart.org

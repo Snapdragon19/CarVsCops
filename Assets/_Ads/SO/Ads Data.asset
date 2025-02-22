@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a3d4faa977ed23488539ffcb9b921ff, type: 3}
+  m_Name: Ads Data
+  m_EditorClassIdentifier: 
+  _interstitialAdInterval: 3
+  _minDelayBetweenInterstitial: 1
+  _rewardedAdFrequency: 0.5
+  _minDelayBetweenRewarded: 1
+  _adsType: 0
+  _enableBanner: 1
+  _enableInterstitial: 1
+  _enableRewarded: 1
+  idBanner: ca-app-pub-3940256099942544/6300978111
+  idInterstitial: ca-app-pub-3940256099942544/1033173712
+  idReward: ca-app-pub-3940256099942544/5224354917
+  _androidGameId: 4294065
+  _iosGameId: 4294064
+  _testMode: 1
+  _androInterstitialId: Interstitial_Android
+  _androRewardedId: Rewarded_Android
+  _androBannerId: Banner_Android
+  _iosInterstitialId: Interstitial_iOS
+  _iosRewardedId: Rewarded_iOS
+  _iosBannerId: Banner_iOS
